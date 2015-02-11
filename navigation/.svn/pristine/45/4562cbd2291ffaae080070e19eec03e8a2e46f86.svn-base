@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Speed Drift Racing</string>
+    <string name="action_settings">About</string>
+    <string name="ic_menu_search">Search</string>
+    <string name="first_text">Home</string>
+    <string name="second_text">More</string>
+    <string name="ad_unit_id">ca-app-pub-1028413635974371/4568817649</string>
+    <string name="hint_text">Please enter a query</string>
+    <!-- 首页的游戏推荐 -->
+    <string name="ReconUrl">http://www.iiijiaba.com/navigation/mobilejson/getGamePictureForPage.action</string>
+    <!-- 首页滑动推荐 -->
+    <string name="ReconUrl_sp">http://www.iiijiaba.com/navigation/mobilejson/getGamePictureForPage_SP.action</string>
+    <!-- 所有的游戏 -->
+    <string name="AllGame">http://www.iiijiaba.com/navigation/mobilejson/getGameForPage.action</string>
+    <!-- 所有的游戏种类 -->
+    <string name="AllCategroy">http://www.iiijiaba.com/navigation/mobilejson/getAllCategory.action</string>
+    <!-- 游戏详情 -->
+    <string name="GameDetail">http://www.iiijiaba.com/navigation/mobilejson/getGameById.action</string>
+    <!-- 获取某个游戏的图片和图标 -->
+    <string name="PictureForGame">http://www.iiijiaba.com/navigation/mobilejson/getGamePictureById.action</string>
+    <!-- 获取某类游戏的特别推荐 -->
+    <string name="ReconGameByCate_sp">http://www.iiijiaba.com/navigation/mobilejson/findCateAndGames.action</string>
+    <!-- 根据查询条件查询符合条件的结果 -->
+    <string name="SearchByText">http://www.iiijiaba.com/navigation/mobilejson/searchGameByCondition.action</string>
+    <!-- 获取某类的所有游戏 -->
+    <string name="CategoryDetail">http://www.iiijiaba.com/navigation/mobilejson/getGameForPageByCate.action</string>
+
+    <!-- 版本號 -->
+    <string name="version">1</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#87CEFA</color>
+    <color name="color_text_selected">#2b2c30</color>
+    <color name="color_text_normal">#626262</color>
+    <color name="color_titlemenu">#ffffff</color>
+    <color name="gainsboro">#DCDCDC</color><!--淡灰色 -->
+    <color name="white">#FFFFFF</color><!--白色 -->
+     <color name="black">#1A1A1A</color><!--hei色 -->
+</resources>
